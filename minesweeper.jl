@@ -1,0 +1,3 @@
+function annotate(minefield)
+
+end 
